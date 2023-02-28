@@ -26,7 +26,7 @@ Check out App.js here in the code files for the computer algorithm code.
 
 ![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen3.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen4.PNG)
 
 ## Reading: Storing Projects 
 
