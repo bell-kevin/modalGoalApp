@@ -20,17 +20,13 @@ https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
 
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/cccccccccccccc.PNG)
+![p]()
 
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/goalDelete.PNG)
+![p]()
 
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/androidRippleEffect.PNG)
+![p]()
 
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/goalDeleted.PNG)
-
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/mmmmDeleted.PNG)
-
-![p](https://github.com/bell-kevin/deleteGoalsFromFlatList/blob/main/mGone.PNG)
+![p]()
 
 ## Reading: Storing Projects 
 
