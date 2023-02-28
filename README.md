@@ -20,11 +20,11 @@ https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
 
-![p]()
+![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen1.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen2.PNG)
 
-![p]()
+![p](https://github.com/bell-kevin/modalGoalApp/blob/main/screen3.PNG)
 
 ![p]()
 
